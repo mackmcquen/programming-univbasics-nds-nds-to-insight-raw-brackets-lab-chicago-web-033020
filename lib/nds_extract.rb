@@ -31,6 +31,6 @@ end
     totals[nds[director_index][:name]] = movie_gross
     director_index += 1
 end
-puts totals
+pp totals
 end
   

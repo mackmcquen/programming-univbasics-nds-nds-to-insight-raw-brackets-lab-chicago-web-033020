@@ -18,7 +18,6 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-  row_index = 0
-while row_index < vm.length do
-  puts "Row #{row_index} has #{vm[row_index]} columns"
+  pp directors_database
+  totals = {}
 end

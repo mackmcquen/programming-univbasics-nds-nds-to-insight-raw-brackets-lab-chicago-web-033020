@@ -18,5 +18,6 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-  dire
+  pp directors_database
+  totals = {}
 end
